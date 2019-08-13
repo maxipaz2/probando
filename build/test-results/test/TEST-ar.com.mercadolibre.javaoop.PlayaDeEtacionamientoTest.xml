@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:37:00" hostname="AR0FVFYM0YLHV2J" time="0.011">
+<testsuite name="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:58:37" hostname="AR0FVFYM0YLHV2J" time="0.001">
   <properties/>
-  <testcase name="laPlayaDeEstacionamientoExiste" classname="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" time="0.005"/>
-  <testcase name="noSePuedeEstacionarDosVecesElMismoAutoEnLaPlayaDeEstacionamient" classname="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" time="0.006"/>
+  <testcase name="laPlayaDeEstacionamientoExiste" classname="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" time="0.0"/>
+  <testcase name="noSePuedeEstacionarDosVecesElMismoAutoEnLaPlayaDeEstacionamient" classname="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" time="0.001"/>
   <testcase name="crearVehiculoAuto" classname="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" time="0.0"/>
   <testcase name="estacionarAutoAgregaVehiculoEnPlayaDeEstacionados" classname="ar.com.mercadolibre.javaoop.PlayaDeEtacionamientoTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

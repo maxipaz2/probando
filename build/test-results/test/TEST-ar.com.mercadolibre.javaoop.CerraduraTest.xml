@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ar.com.mercadolibre.javaoop.CerraduraTest" tests="7" skipped="0" failures="1" errors="0" timestamp="2019-08-13T14:37:00" hostname="AR0FVFYM0YLHV2J" time="0.028">
+<testsuite name="ar.com.mercadolibre.javaoop.CerraduraTest" tests="7" skipped="0" failures="1" errors="0" timestamp="2019-08-13T14:58:37" hostname="AR0FVFYM0YLHV2J" time="0.003">
   <properties/>
-  <testcase name="crearCerraduraConOtraClaveNumericaYLoGuarde" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.025"/>
+  <testcase name="crearCerraduraConOtraClaveNumericaYLoGuarde" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
   <testcase name="abrirCerrauraConClaveIncorrecta" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
   <testcase name="crearCerraduraConClaveNumericaYLoGuarde" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
-  <testcase name="abrirCerraduraConClave" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.001">
+  <testcase name="abrirCerraduraConClave" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0">
     <failure message="org.junit.ComparisonFailure: expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;[fals]e&gt; but was:&lt;[tru]e&gt;
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -60,7 +60,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:835)
 </failure>
   </testcase>
-  <testcase name="unaCerraduraSeCreaCerrada" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
+  <testcase name="unaCerraduraSeCreaCerrada" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.001"/>
   <testcase name="crearCerradura" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
   <testcase name="crearCerraduraConClaveNumerica" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

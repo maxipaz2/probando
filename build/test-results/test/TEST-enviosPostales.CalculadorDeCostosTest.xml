@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="enviosPostales.CalculadorDeCostosTest" tests="3" skipped="0" failures="3" errors="0" timestamp="2019-08-13T14:37:00" hostname="AR0FVFYM0YLHV2J" time="0.002">
+<testsuite name="enviosPostales.CalculadorDeCostosTest" tests="3" skipped="0" failures="3" errors="0" timestamp="2019-08-13T14:58:37" hostname="AR0FVFYM0YLHV2J" time="0.001">
   <properties/>
-  <testcase name="unEnvioDeMenosDeCincoPaquetesCuesta50" classname="enviosPostales.CalculadorDeCostosTest" time="0.001">
+  <testcase name="unEnvioDeMenosDeCincoPaquetesCuesta50" classname="enviosPostales.CalculadorDeCostosTest" time="0.0">
     <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
 	at enviosPostales.CalculadorDeCostosTest.unEnvioDeMenosDeCincoPaquetesCuesta50(CalculadorDeCostosTest.java:12)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)

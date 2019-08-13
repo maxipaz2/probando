@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tragamonedas.TamboresTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2019-08-13T14:37:00" hostname="AR0FVFYM0YLHV2J" time="0.051">
+<testsuite name="tragamonedas.TamboresTest" tests="3" skipped="0" failures="1" errors="0" timestamp="2019-08-13T14:58:37" hostname="AR0FVFYM0YLHV2J" time="0.038">
   <properties/>
-  <testcase name="obtenerPosicionDeUnTamborDevuelveUnEnteroEntreUnoYOcho" classname="tragamonedas.TamboresTest" time="0.044"/>
+  <testcase name="obtenerPosicionDeUnTamborDevuelveUnEnteroEntreUnoYOcho" classname="tragamonedas.TamboresTest" time="0.032"/>
   <testcase name="alInicializarUnTamborSuPosicionEsUno" classname="tragamonedas.TamboresTest" time="0.005">
     <failure message="org.junit.ComparisonFailure: expected:&lt;[1]&gt; but was:&lt;[7]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;[1]&gt; but was:&lt;[7]&gt;
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
