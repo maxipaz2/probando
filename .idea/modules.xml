@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/meli-base.iml" filepath="$PROJECT_DIR$/meli-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meli-base.main.iml" filepath="$PROJECT_DIR$/.idea/modules/meli-base.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meli-base.test.iml" filepath="$PROJECT_DIR$/.idea/modules/meli-base.test.iml" />
     </modules>
   </component>
 </project>

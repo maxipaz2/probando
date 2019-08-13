@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ar.com.mercadolibre.javaoop.LibreriaTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-08-13T14:37:00" hostname="AR0FVFYM0YLHV2J" time="0.035">
+  <properties/>
+  <testcase name="creoAlquilerLuegoDevuelvoLibroYVerificoQueElLibroNoEstaAlquilado" classname="ar.com.mercadolibre.javaoop.LibreriaTest" time="0.031"/>
+  <testcase name="creoAlquilerLuegoDevuelvoElLibroYVerificoQueElAlquilerTieneFechaDeDevolucion" classname="ar.com.mercadolibre.javaoop.LibreriaTest" time="0.0"/>
+  <testcase name="agregoAlquilerALibreriaYVerifoQueSeAgrego" classname="ar.com.mercadolibre.javaoop.LibreriaTest" time="0.001"/>
+  <testcase name="crearNovelaAlquilarlaYVerificarQueAlquileresDeLibreriaSeanCorrectos" classname="ar.com.mercadolibre.javaoop.LibreriaTest" time="0.002"/>
+  <testcase name="creoAlquilerYVerificoQueLibroEsteAlquilado" classname="ar.com.mercadolibre.javaoop.LibreriaTest" time="0.0"/>
+  <testcase name="testPuntoB" classname="ar.com.mercadolibre.javaoop.LibreriaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

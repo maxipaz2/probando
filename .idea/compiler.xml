@@ -11,11 +11,13 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="meli-base" target="1.11" />
+      <module name="meli-base.main" target="11" />
+      <module name="meli-base.test" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="meli-base" options="--add-exports=jdk.internal.vm.compiler/org.graalvm.compiler.debug=ALL-UNNAMED" />
+      <module name="meli-base" options="" />
     </option>
   </component>
 </project>
